@@ -1,0 +1,8 @@
+Ayobamikale11@alx-system_engineering-develop:/tmp$ pwd
+/tmp
+Ayobamikale11@alx-system_engineering-develop:/tmp$ echo $HOME
+/home/Ayobamikale11
+Ayobamikale11@alx-system_engineering-develop:/tmp$ source ./2-bring_me_home
+Ayobamikale11@alx-system_engineering-develop:~$ pwd
+/home/Ayobamikale11
+Ayobamikale11@alx-system_engineering-develop:~$ 
